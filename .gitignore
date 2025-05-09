@@ -1,0 +1,18 @@
+# Go
+go.sum
+*.exe
+*.out
+*.test
+reconengine
+
+# OS
+.DS_Store
+
+# Output
+output/
+results/
+
+# Python/Streamlit
+__pycache__/
+*.pyc
+.env

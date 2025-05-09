@@ -2,19 +2,6 @@
 
 ReconEngine is a powerful and extensible reconnaissance engine built for bug bounty hunters, penetration testers, and red teamers. It automates the full recon stack from subdomain enumeration to AI-powered vulnerability detection, offering both CLI and dashboard UI.
 
----
-
-## 🚀 Features
-
-- 🔍 **Subdomain Enumeration**: `subfinder`, `Subdominator`, `gau`, `waybackurls`, `hakrawler`
-- 🌐 **Host Probing**: `httpx`, `WhatWeb`, `Wappalyzer`
-- 🧠 **AI + Nuclei Integration**: Natural language prompt-based scans using Nuclei's `-ai` mode
-- 🔐 **Secret Detection**: Advanced multi-pattern secret detection via JS & HTML scan, plus Git, config & environment leaks
-- 🧬 **JS Analysis**: `goLinkFinder`, `ParamSpider`, `Arjun`, Wayback inspection
-- 🧩 **Vulnerability Mapping**: GF pattern matching, regex flagging, sensitive file detection
-- 🧰 **Tool Integration**: Gitleaks, Git-Hound, Corsy, Subzy, Disclo PDF scanner
-- 📊 **Streamlit Dashboard**: Launch scans, track progress, and view summaries
-- 📄 **Structured Reports**: `recon_summary.json`, secrets, endpoints, parameters, headers
 
 ---
 
